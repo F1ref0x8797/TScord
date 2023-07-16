@@ -17,9 +17,9 @@ export class Client {
                     token,
                     intents: 513,
                     properties: {
-                        $os: "linux",
-                        $browser: "my-library",
-                        $device: "my-library"
+                        os: "linux",
+                        browser: "my-library",
+                        device: "my-library"
                     }
                 }
             };

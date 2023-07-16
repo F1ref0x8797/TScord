@@ -19,5 +19,6 @@ export interface IdentifyStructure {
         since?: number;
         activities: any[];
         status: Status
-    }
+    };
+    intents: number
 };
